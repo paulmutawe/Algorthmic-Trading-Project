@@ -13,4 +13,4 @@ Value investing using quantitative methods
 
 Visualization of time series data
 
-Measuring the performance of your trading strategies
+Measuring the performance of trading strategies using backtesting
