@@ -11,6 +11,6 @@ Performing thorough quantitative analysis of fundamental data
 
 Value investing using quantitative methods
 
-Visualization of time series data
+Visualisation of time series data
 
 Measuring the performance of trading strategies using backtesting
